@@ -1,0 +1,12 @@
+<employee>
+    <name>Veysel Can Cergel</name>
+    <age>34</age>
+    <address>
+        <street>215 street</street>
+        <city>IZMIR</city>
+        <zipcode>12345</zipcode>
+    </address>
+    <email>veyselcancergel@gmail.com</email>
+    <department>quality</department>
+    <title>laboratory Specialist</title>
+</employee>
