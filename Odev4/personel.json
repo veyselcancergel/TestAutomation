@@ -1,11 +1,11 @@
 {
   "employee" : {
     "name" : "Veysel Can Cergel",
-    "age" : "34",
+    "age" : 34,
     "address": {
       "street": "215 sokak",
       "city": "izmir",
-      "zipcode": "12345"
+      "zipcode": 12345
     },
     "email": "veyselcancergel@gmail.com",
     "department": "kalite",
