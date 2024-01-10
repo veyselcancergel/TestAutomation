@@ -1,0 +1,22 @@
+employee:
+  name: Veysel Can Cergel
+  age: 34
+  address:
+    street: 215 street
+    city: izmir
+    zipcode: 12345
+  email: veyselcancergel@gmail.com
+  department: quality
+  title: laboratory specialist
+
+
+
+
+
+
+
+
+
+
+
+}
